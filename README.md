@@ -49,7 +49,6 @@ npm run dev
 ## Frontend
 
 Uses NextJS and ReactJS.
-
 ### Setup
 
 Run the following commands to setup the frontend
@@ -58,14 +57,12 @@ Run the following commands to setup the frontend
 cd frontend
 npm install
 ```
-
 ### Start the NextJS server
 
 Run the following command to start the NextJS server
 ```
 npm run dev
 ```
-
 Access the Chat page at http://localhost:3001/
 
 ## Note
